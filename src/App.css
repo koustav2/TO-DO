@@ -16,7 +16,7 @@
   margin-bottom: 15px;
 }
 .lightMode-app-title-container{
-  background-color: #fde2b5;
+  background-color: #0a0813;
 }
 .darkMode-app-title-container{
   background-color: #444;
@@ -30,7 +30,7 @@
 }
 
 .lightMode-App {
-  background-color: antiquewhite;
+  background-color: rgb(122, 112, 234);
 }
 
 .tasks-container {
